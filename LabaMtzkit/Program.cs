@@ -10,6 +10,7 @@ namespace LabaMtzkit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Everybody");
         }
     }
 }
